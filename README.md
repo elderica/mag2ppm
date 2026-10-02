@@ -3,7 +3,7 @@
 MAGフォーマット (MAKIchan Graphic loader) と PPM (P3/P6) を相互変換するCLIツール。
 Go標準ライブラリのみで動作。
 
-仕様根拠: `magbible.doc`, `01.doc`, https://emk.name/2015/03/magjs.html, https://metanest.jp/mag/mag.xhtml。
+仕様根拠: `magbible.doc`, `01.doc`, https://emk.name/2015/03/magjs.html, https://metanest.jp/mag/mag.xhtml 。
 
 ## ビルド
 
